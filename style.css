@@ -5,7 +5,8 @@
 }
 
 body {
-  background-image: linear-gradient(to right, #141e30, #243b55);
+  background-image: linear-gradient(to right,#2C3E50 ,#4CA1AF);
+  /* background-image: linear-gradient(to right, #141e30, #243b55); */
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -88,7 +89,7 @@ input {
   padding: 0 5px;
   text-align: center;
   font-size: 30px;
-  background: #658aac;
+  background: #8b9191;
   color: #ece6e6;
   border-radius: 0 8px 8px 0;
 }
